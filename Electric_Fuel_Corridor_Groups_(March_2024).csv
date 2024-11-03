@@ -1,0 +1,99 @@
+﻿OBJECTID,Corridor_Segment,Corridor_Group,Alternative_Fuel_Corridor,Minimum_Sites,Chargers_Required,Required_Sites,Additional_Notes,Shape__Length
+1,Anaheim to Newport Beach,17,SR-55,1,4,SR-55/SR-1 (Newport Beach),NA,28673.2105149818
+2,Arcata to Redding,02,SR-299,4,16,"US-101/SR-299 (Arcata), SR-299/I-5 (Redding)",NA,220103.707403556
+3,Barstow to Needles,07,I-40,1,8,Ludlow,NA,248922.384365701
+4,Beaumont to Blythe,14,I-10,2,32,NA,NA,249063.786900129
+5,Buttonwillow to Barstow,07,SR-58,4,16,"I-5/SR-58 (Buttonwillow), SR-58/I-15 (Barstow)",NA,255862.071690187
+6,Oregon to North of Leggett,02,US-101,4,16,NA,NA,307193.140945236
+7,Calpella/Redwood Valley to Yuba Pass,08,SR-20,4,20,SR-20/I-5 (Williams),NA,250204.435339256
+8,Coalinga to Three Rivers,13,SR-198,2,8,NA,NA,142045.892951643
+9,Cordelia to San Jose,12,I-680,1,4,I-80/I-680 (Cordelia),NA,113624.255057431
+10,Crescent City to Gasquet,02,SR-199,1,4,NA,NA,58008.5900239116
+11,East of Shandon to Famoso,13,SR-46,1,4,SR-46/SR-99 (Famoso),NA,102224.446754574
+12,El Cajon to Eucalyptus Hills,15,SR-67,1,4,NA,NA,14166.3977316631
+13,El Centro to Arizona,14,I-8,2,8,NA,NA,86812.0095118042
+14,El Segundo to Norwalk,20,I-105,1,4,I-105/I-605 (Norwalk),NA,28387.5911307771
+15,Fresno to Squaw Valley,13,SR-180,2,8,SR-180/SR-99 (Fresno),NA,87473.7207194999
+16,Gardena to Riverside,17,SR-91,1,4,SR-91/I-110 (Gardena),NA,94432.3647124866
+17,Hercules to Brentwood,11,SR-4,1,4,NA,NA,57792.6787178699
+18,Hesperia to Nevada,07,I-15,2,38,NA,NA,267560.504355438
+19,Nevada to Hesperia,05,US-395 South,5,20,"Lee Vining is a required site for SR-12 in Group 9, so it is not an eligible site for US-395",NA,569250.107838483
+20,Holtville to Mexico,14,SR-7,1,4,NA,NA,10970.6912538587
+21,Irwindale/Duarte to Seal Beach,20,I-605,1,4,I-605/I-210 (Irwindale/Duarte),NA,44125.6788480405
+22,La Habra to Huntington Beach,17,SR-39,2,8,"SR-39/SR-1 (Huntington Beach), SR-39/SR-72 (La Habra)",NA,33455.0402158376
+23,Paso Robles to Fish Camp,13,SR-41,3,12,SR-41/SR-46 Shandon,NA,316311.409143153
+24,Leggett to North of San Francisco,03,SR-1,6,24,SR-1/US-101 (Leggett),NA,332709.857420368
+25,Lompoc to Las Cruces,Ineligible for Funding,SR-1,0,0,NA,NA,28201.7171879692
+26,Los Angeles to Beaumont,18,SR-60,1,4,SR-60/I-10 (Los Angeles),NA,121515.9628444
+27,Los Angeles to Long Beach,20,I-710,2,8,"I-710/I-10 (Los Angeles), I-710/SR-1 (Long Beach)",NA,35804.8836104077
+28,Los Angeles to San Pedro,20,I-110,2,8,"I-110/I-10 (Los Angeles), I-110/SR-47 (San Pedro)",NA,32924.5217234391
+29,Manteca to Lee Vining,09,SR-120,5,20,SR-120/US-395 (Lee Vining),NA,260301.113566963
+30,Mission Hills to Irvine,19,I-405,1,4,I-405/I-5 (Mission Hills),NA,116825.860825405
+31,Moonpark to Thousand Oaks,18,SR-23,2,8,"SR-23/SR-118 (Moonpark), SR-23/US-101 (Thousand Oaks)",NA,14991.5894331819
+32,Murrieta to Hesperia,Ineligible for Funding,I-15,0,0,NA,NA,104878.580949351
+33,Murrieta to San Bernadino,19,I-215,2,8,"I-215/I-15 (Murrieta), I-215/I-15 (San Bernardino)",NA,71694.06922374
+34,Oakland to San Jose,Ineligible for Funding,I-880,0,0,NA,NA,74028.3205532088
+35,Oakland to Walnut Creek,11,SR-24,1,4,NA,NA,21728.5517149865
+36,Oceanside to Escondido,15,SR-78,1,4,NA,NA,56290.4822858306
+37,Oregon to Nevada,04,US-395 North,5,20,NA,NA,326044.391242753
+38,Oxnard to Dana Point,17,SR-1,1,4,SR-1/I-5 (Dana Point),NA,189925.350340495
+39,Oxnard to Los Angeles,Ineligible for Funding,US-101,0,0,NA,NA,103058.021547216
+40,Pollock Pines to Nevada Border,08,US-50,1,6,NA,NA,78132.6896190327
+41,Red Bluff to Sacramento,01,SR-99,2,8,Near Red Bluff,NA,192952.17669651
+42,Sacramento to Nevada,08,I-80,1,16,NA,NA,200874.955488798
+43,Sacramento to Pollock Pines,Ineligible for Funding,US-50,0,0,NA,NA,90619.6951127865
+44,South of Sacramento to Kettleman City,06A,I-5,2,67,NA,NA,324091.90756639
+45,San Diego to El Centro,16,I-8,2,8,NA,NA,205264.377762207
+46,San Diego to Murrieta,16,I-15,2,8,"I-15/I-5 (San Diego), I-15/I-215 (Murrieta)",NA,91684.2542155757
+47,San Diego to Otay Mesa,15,SR-905,2,8,"SR-905/I-5 (San Diego), SR-905/SR-125 (Otay Mesa)",NA,13982.476823278
+48,San Diego to San Ysidro,16,I-805,1,4,I-805/I-5 (San Diego),NA,46359.2029643735
+49,San Diego to Dulzara (Tecate),15,SR-94,2,8,SR-94/I-5 (San Diego),NA,59406.0764897703
+50,San Francisco to Lompoc,10,SR-1,7,28,NA,NA,478927.006779866
+51,San Jose to Santa Cruz,11,SR-17,1,4,SR-17/SR-1 (Santa Cruz),NA,42654.2210431047
+52,San Rafeal to Tracy,12,I-580,2,10,I-580/US-101 (San Rafael),NA,95872.4324367575
+53,Santa Clarita to Inyokern,05,SR-14,3,12,"SR-14/US-395 (Inyokern), SR-14/I-5 (Santa Clarita)",NA,189884.189953887
+54,Santa Clarita to San Clemente,Ineligible for Funding,I-5,0,0,NA,NA,133842.946683374
+55,Santa Monica to Beaumont,Ineligible for Funding,I-10,0,0,NA,NA,138687.898513906
+56,Santee to Otay Mesa,15,SR-125,2,8,"SR-125/SR-52 (Santee), SR-125/SR-905 (Otay Mesa)",NA,34514.6329606808
+57,Saticoy to San Fernando,18,SR-118,2,8,"SR-118/SR-126 (Saticoy), SR-118/I-210 (San Fernando)",NA,73709.7906909375
+58,Sebastapol to Lodi,11,SR-12,3,12,"SR-12/SR-116 (Sebastopol), SR-12/SR-99 (Lodi)",NA,160837.034058213
+59,San Francisco to San Jose,12,I-280,2,8,NA,NA,93309.9094274722
+60,San Francisco to West Sacramento,12,I-80,1,4,San Francisco,NA,131284.958208537
+61,Slymar to Redlands,19,I-210,1,4,I-210/I-5 (Sylmar),NA,137815.111794552
+62,Sacramento to Turlock,09,SR-99,1,10,NA,NA,141997.45730951
+63,South of San Clemente to Mexico,Ineligible for Funding,I-5,0,0,NA,NA,125789.940600753
+64,San Francisco to Oxnard,10,US-101,2,8,NA,NA,595459.748553159
+65,South of Turlock to Wheeler Ridge,13,SR-99,1,40,NA,NA,338029.387342803
+66,"SR-111 Palm Desert to Mecca, SR-86/78 Mecca to Brawley, SR-111 from Brawley to Calexico",14,SR-111/SR-86/SR-78,3,12,NA,NA,208496.266986573
+67,Stockton to Angels Camp,09,SR-4,3,12,NA,NA,86121.8667277953
+68,Tracy,12,I-205,0,2,NA,"Since new charging stations are not required on this corridor, these chargers may be added to any corridor in Group 12.",20824.6996649913
+69,Upper Lake to Lower Lake,08,SR-29,2,8,SR-20/SR-29 (Upper Lake) and SR-29/SR-53 (Lower Lake),NA,49603.4854027532
+70,Vacaville to Dunnigan,12,I-505,0,2,NA,"Since new charging stations are not required on this corridor, these chargers may be added to any corridor in Group 12.",53138.9077662506
+71,Watsonville to Chowchilla,13,SR-152,1,9,SR-152/SR-99 (Chowchilla),NA,165920.183765977
+72,Weed to Dorris,01,US-97,2,8,,NA,87384.6751113109
+73,South of Kettleman City to Santa Clarita,06B,I-5,2,81,NA,NA,235992.486431075
+74,Oregon Border to Sacramento,01,I-5,4,32,Near Orland,NA,474039.605145673
+75,Leggett to San Francisco,03,US-101,2,8,NA,NA,295605.914497255
+76,San Mateo Jct 92 to Sunnyvale Jct S Sunnyvale Ave,Ineligible for Funding,SR-82,0,0,NA,NA,64836.3752949632
+77,San Mateo Jct 280 to Hayward Jct 238,Ineligible for Funding,SR-92,0,0,NA,NA,31345.9527536882
+78,Modesto Jct 99 to Tracy Jct 580,Ineligible for Funding,SR-132,0,0,NA,NA,42031.8545817739
+79,Roseville Jct 80 to Olivehurst Jct 70,01,SR-65,1,4,Wheatland or Olivehurst,NA,47900.1882353953
+80,East end of Sacramento Jct South Watt to Plymouth Jct 49,21,SR-16,1,4,NA,NA,47442.7916110667
+81,Plymouth Jct 16 to Martell Rd,21,SR-49,1,4,NA,NA,13600.9098365482
+82,Auburn Jct 80 to Grass Valley Jct 20,08,SR-49,1,4,NA,NA,36693.6208318954
+83,South of Chico Jct 99 to Elsey Jct 70,01,SR-149,0,0,NA,NA,15870.0354329565
+84,East Nicolas to S of Elsey,01,SR-70,2,8,NA,NA,84245.4563048292
+85,Menifee Jct 215 to Hemet Jct N San Jacinto St,22,SR-74,1,4,Near SR-74/SR-79 (Green Acres),Site required on either SR-74 or SR-79,37180.7538407774
+86,Coachella Jct 10 to Thermal Jct 111,14,SR-86,0,0,NA,Station can be sited here or on other segments of SR-111/SR-86/SR-78,16715.8270000312
+87,"East of Merced Jct 99 to El Portal, Yosemite National Park",13,SR-140,2,9,Near El Portal,NA,109408.362908177
+88,Mountain View Jct 101 to San Jose Jct 101,Ineligible for Funding,SR-85,0,0,NA,NA,38194.0702439252
+89,San Jose Jct 101 to San Jose Jct 85,Ineligible for Funding,SR-87,0,0,NA,NA,28783.4555358883
+90,Stockton Jct 99 to Jackson Jct 49,21,SR-88,1,4,NA,NA,72132.4879472183
+91,Orland Jct 5 to Chico Jct 99,01,SR-32,0,0,NA,"A station could be sited on SR-32 if there are no gaps longer than 50 miles between it, I-5 and SR-99.",35096.4426281659
+92,Tracy Jct 205 to Vernalis Jct 5,12,I-580,0,0,NA,A new charging station could be on this segment of I-580 or farther West on I-580.,26260.7289824397
+93,Orange Jct 5 to Glendora Jct 210,Ineligible for Funding,SR-57,0,0,NA,NA,37646.2414054879
+94,San Leandro Jct 880 to Fremont Jct 680,Ineligible for Funding,I-238,0,0,NA,NA,26103.1762340436
+95,Temecula Jct 15 to Green Acres Jct 74,22,SR-79,1,4,Near SR-74/SR-79 (Green Acres),Site required on either SR-74 or SR-79,26892.4842310332
+96,San Juan Bautista Jct 101 to Dunneville Jct 152,13,SR-156,0,2,NA,"Since new charging stations are not required on this corridor, these chargers may be added to any corridor in Group 13.",28610.8660925815
+97,Mountain View Jct 85 to Milpitas Jct 680,Ineligible for Funding,SR-237,0,0,NA,NA,17135.8083267011
+98,Gustine Jct 5 to Merced Jct 99,13,SR-140,0,0,NA,A new charging station could be on this segment of SR-140 or farther East on SR-140.,57323.8139090717
